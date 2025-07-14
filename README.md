@@ -21,6 +21,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+## 🎥 Canal de YouTube – *Ex-Cel-ente Diseño*
+
+[![YouTube](https://img.shields.io/badge/YouTube-Ex--Cel--ente%20Diseño-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Ex-Cel-enteDiseño)
+
+> Exploro el arte digital desde una hoja de cálculo 🎨📊  
+> En **Ex-Cel-ente Diseño** comparto ilustraciones creadas 100% con **Microsoft Excel**.  
+> ¡Descubre cómo una hoja de cálculo puede convertirse en un lienzo!
+
 
 <!--
 **julianDVP/julianDVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
