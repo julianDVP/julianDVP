@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>Hola, soy Julian David. Transformo ideas en interfaces ✍️</h1>
+<h2>Desarollador Web Front-End Develepor🧑‍💻 | Diseñador UI/UX🧑‍🎨</h2>
+<p>Me apasiona convertir ideas en productos digitales. Desarrollo interfaces con HTML, CSS y JavaScript, y doy vida a las experiencias visuales usando herramientas como Figma, Adobe XD, Photoshop e Illustrator. Diseño con propósito y empatía, aplicando Design Thinking en cada etapa del proceso.</p>
 
 <!--
 **julianDVP/julianDVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
